@@ -3,9 +3,7 @@ function About() {
     <div className="flex justify-center items-center h-[90vh] lg:h-[66vh] max-w-[90%] lg:max-w-5xl mx-auto my-10 font-jost">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-start">
         <div>
-          <figure>
-            <img src="public/about_us.jpg" alt="" />
-          </figure>
+            <img src="./about_us.jpg" alt="" />
         </div>
         <div>
           <h1 className="text-3xl text-center font-bold mb-10">Our Story</h1>
